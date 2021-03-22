@@ -1,4 +1,4 @@
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
+# DMM WEBCAMPコンテンツ【JavaScriptを学ぼう】
 DMM WEBCAMPの学習コンテンツJavaScriptを学ぼうで記述した、JavaScriptのコードです。
 
 ## 使い方
